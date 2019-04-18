@@ -1,0 +1,14 @@
+Multimethod.
+Sphere and Box
+It is Box: x = 2, y = 3, z = 4
+It is Sphere: r = 3
+Box and Tetrahedron
+It is Box: x = 2, y = 3, z = 4
+It is Tetrahedron: r = 4
+Sphere and Tetrahedron
+It is Sphere: r = 3
+It is Tetrahedron: r = 4
+Container contents 3 elements.
+0: It is Box: x = 2, y = 3, z = 4
+1: It is Sphere: r = 3
+2: It is Tetrahedron: r = 4
